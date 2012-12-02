@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ballast_tester_PCB.PcbDoc   3/12/2012  3:36:29 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ballast_tester_PCB.TXT
+EIA File   : ballast_tester_PCB.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          10               4.48 Inch (113.75 mm)
+T2        35.43mil (0.89992mm)     Round          4                0.59 Inch (14.91 mm)
+T3        47.24mil (1.1999mm)      Round          2                0.20 Inch (5.08 mm)
+---------------------------------------------------------------------------
+Totals                                            16               5.27 Inch (133.73 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

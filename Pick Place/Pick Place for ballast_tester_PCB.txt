@@ -1,0 +1,30 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+P2         power_connector       1285mil       -150mil   1384.999mil       -150mil       1385mil       -150mil  T        180.00 277-1084-ND    
+U1         751B-05_N             1225mil       1470mil   1224.999mil       1470mil   1130.512mil       1645mil  T          0.00 MC14528BD      
+R10        6-0805            1219.999mil       1735mil   1219.999mil       1735mil     1257.4mil       1735mil  T        180.00 ERJ1GEJ104C    
+R9         6-0805            1589.999mil       1290mil   1589.999mil       1290mil     1627.4mil       1290mil  T        180.00 ERJ6GEYJ332V   
+R8         6-0805                1370mil       1125mil   1369.999mil       1125mil       1370mil   1162.402mil  T        270.00 ERJ6GEYJ472V   
+R7         6-0805                1500mil       1635mil   1499.999mil       1635mil       1500mil   1597.598mil  T         90.00 ERJ1GEJ475C    
+R6         6-0805            1219.999mil       1820mil   1219.999mil       1820mil     1257.4mil       1820mil  T        180.00 ERJ1GEJ475C    
+R5         POT4MM-2              1545mil       1050mil   1544.999mil       1050mil    1623.74mil   1004.724mil  T        180.00 TS4YJ102M      
+R4         POT4MM-2              1545mil       1440mil   1544.999mil       1440mil    1466.26mil   1485.276mil  T          0.00 TS4YJ102M      
+R3         1T-2512           1589.998mil       -185mil   1589.999mil       -185mil   1589.998mil    -74.764mil  T        270.00 ERJ1TJ563U     
+R2         1T-2512               1090mil        355mil   1089.999mil        355mil    979.764mil        355mil  T        360.00 ERJ1T104U      
+R1         1T-2512               1415mil        355mil   1414.999mil        355mil   1525.236mil        355mil  T        180.00 ERJ1T104U      
+Q1         TO-252AA          1309.999mil        745mil   1309.999mil        745mil    1399.96mil    879.842mil  T        180.00 8TWS08S        
+P3         CAPPR2.5-6.3x5/H.9   1090.787mil        145mil   1090.787mil        145mil   1041.574mil        145mil  T          0.00 MHDR1X2        
+P1         CAPPR2.5-6.3x5/H.9   1480.787mil        145mil   1480.787mil        145mil   1431.574mil        145mil  T          0.00 MHDR1X2        
+D3         SOD-123           1214.999mil       1115mil   1214.999mil       1115mil   1281.928mil       1115mil  T        180.00 1N4148WT       
+D2         DO214                  965mil       -190mil    964.999mil       -190mil        965mil   -280.552mil  T         90.00 BZG03C12       
+D1         DSO-C2/X3.3           1000mil    655.001mil    999.999mil        655mil       1000mil     518.19mil  T         90.00 1N5406         
+C9         0402                  1425mil       1620mil   1424.999mil       1620mil       1425mil    1594.41mil  T         90.00 C0402          
+C8         0402                   950mil       1515mil    949.999mil       1515mil        950mil    1489.41mil  T         90.00 C0402          
+C7         0402                   950mil       1635mil    949.999mil       1635mil        950mil    1609.41mil  T         90.00 C0402          
+C6         0402                  1615mil        595mil   1614.999mil        595mil       1615mil     620.59mil  T        270.00 C0402          
+C5         0402                  1500mil        595mil   1499.999mil        595mil       1500mil     620.59mil  T        270.00 C0402          
+C4         X                      995mil       1110mil    994.999mil       1110mil        995mil    984.016mil  T         90.00 T491B227M004AT 
+C3         0402              1349.999mil        990mil   1349.999mil        990mil   1324.408mil        990mil  T        360.00 C0402          
+C2         0402                   950mil       1395mil    949.999mil       1395mil        950mil    1369.41mil  T         90.00 C0402          
+C1         0402                  1050mil       -195mil   1049.999mil       -195mil       1050mil    -220.59mil  T         90.00 C0402          
+
